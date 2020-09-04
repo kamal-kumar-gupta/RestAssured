@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de44e53f-662c-4363-b8f0-6c1a10253caf" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/GetApi/DefaultRequestSpecificationExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="44" column="53" selection-start-line="44" selection-start-column="53" selection-end-line="44" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/JavaConcepts/BuilderPattern.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="49" column="21" lean-forward="true" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/JavaConcepts/InterfaceExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/JavaConcepts/Class01Implementation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/GetApi/BuilderPatternRestAssured.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/GetApi/Storefront.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/GetApi/DifferentWaysOfCallingHttpMethodsOnRequestSpecifications.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/GetApi/ExtractingValuesFromResponse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/resources/AuthPayload.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/GetApi/First.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GetApi/DefaultHostAndPortExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GetApi/DifferentWaysOfCallingHttpMethodsOnRequestSpecifications.java" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/CreateBookingPayload.json" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/AuthPayload.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/GetApi/ExtractingValuesFromResponse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GetApi/DefaultRequestSpecificationExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JavaConcepts/BuilderPattern.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GetApi/BuilderPatternRestAssured.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JavaConcepts/InterfaceExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JavaConcepts/Class01Implementation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GetApi/Storefront.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="47" />
+    <option name="y" value="-4" />
+    <option name="width" value="1295" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RestAssuredBasics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestAssuredBasics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestAssuredBasics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestAssuredBasics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestAssuredBasics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestAssuredBasics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestAssuredBasics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestAssuredBasics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestAssuredBasics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestAssuredBasics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="GetApi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestAssuredBasics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestAssuredBasics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaConcepts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BuilderPattern">
+    <configuration name="BuilderPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaConcepts.BuilderPattern" />
+      <module name="RestAssuredBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaConcepts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DifferentWaysOfCallingHttpMethodsOnRequestSpecifications" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GetApi.DifferentWaysOfCallingHttpMethodsOnRequestSpecifications" />
+      <module name="RestAssuredBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GetApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DefaultRequestSpecificationExample.overrideDefaultSpecification" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GetApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="GetApi" />
+      <option name="MAIN_CLASS_NAME" value="GetApi.DefaultRequestSpecificationExample" />
+      <option name="METHOD_NAME" value="overrideDefaultSpecification" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExtractingValuesFromResponse" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GetApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="GetApi" />
+      <option name="MAIN_CLASS_NAME" value="GetApi.ExtractingValuesFromResponse" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExtractingValuesFromResponse.generateToken" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GetApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="GetApi" />
+      <option name="MAIN_CLASS_NAME" value="GetApi.ExtractingValuesFromResponse" />
+      <option name="METHOD_NAME" value="generateToken" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BuilderPattern" />
+        <item itemvalue="TestNG.DefaultRequestSpecificationExample.overrideDefaultSpecification" />
+        <item itemvalue="TestNG.ExtractingValuesFromResponse" />
+        <item itemvalue="TestNG.ExtractingValuesFromResponse.generateToken" />
+        <item itemvalue="Application.DifferentWaysOfCallingHttpMethodsOnRequestSpecifications" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de44e53f-662c-4363-b8f0-6c1a10253caf" name="Default Changelist" comment="" />
+      <created>1598346756024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598346756024</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DefaultRequestSpecificationExample_overrideDefaultSpecification - 2020.08.25 at 21h 22m 40s.xml">
+      <configuration name="DefaultRequestSpecificationExample.overrideDefaultSpecification" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DefaultRequestSpecificationExample_(1) - 2020.08.25 at 21h 22m 52s.xml">
+      <configuration name="DefaultRequestSpecificationExample (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DefaultRequestSpecificationExample_overrideDefaultSpecification - 2020.08.25 at 21h 23m 10s.xml">
+      <configuration name="DefaultRequestSpecificationExample.overrideDefaultSpecification" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DefaultRequestSpecificationExample_(1) - 2020.08.25 at 21h 23m 19s.xml">
+      <configuration name="DefaultRequestSpecificationExample (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ExtractingValuesFromResponse_generateToken - 2020.08.25 at 21h 31m 00s.xml">
+      <configuration name="ExtractingValuesFromResponse.generateToken" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ExtractingValuesFromResponse_generateToken - 2020.08.25 at 21h 35m 15s.xml">
+      <configuration name="ExtractingValuesFromResponse.generateToken" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ExtractingValuesFromResponse - 2020.08.25 at 21h 36m 35s.xml">
+      <configuration name="ExtractingValuesFromResponse" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DefaultRequestSpecificationExample_overrideDefaultSpecification - 2020.08.25 at 21h 38m 28s.xml">
+      <configuration name="DefaultRequestSpecificationExample.overrideDefaultSpecification" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DefaultRequestSpecificationExample_overrideDefaultSpecification - 2020.08.25 at 21h 39m 04s.xml">
+      <configuration name="DefaultRequestSpecificationExample.overrideDefaultSpecification" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DefaultRequestSpecificationExample_overrideDefaultSpecification - 2020.08.25 at 21h 39m 39s.xml">
+      <configuration name="DefaultRequestSpecificationExample.overrideDefaultSpecification" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="46" y="-11" width="1321" height="780" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992272" visible="true" weight="0.25373134" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.47996858" visible="true" weight="0.46199703" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32921174" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" x="497" y="55" width="419" height="647" id="Run" order="9" sideWeight="0.5200314" side_tool="true" weight="0.46199703" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24980362" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Event Log" order="8" sideWeight="0.50230414" side_tool="true" weight="0.32914376" />
+    </layout>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/resources/CreateBookingPayload.json" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/GetApi/First.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GetApi/DefaultHostAndPortExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GetApi/DefaultRequestSpecificationExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="53" selection-start-line="44" selection-start-column="53" selection-end-line="44" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GetApi/DifferentWaysOfCallingHttpMethodsOnRequestSpecifications.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GetApi/ExtractingValuesFromResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/resources/AuthPayload.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaConcepts/InterfaceExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaConcepts/Class01Implementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaConcepts/BuilderPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="49" column="21" lean-forward="true" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GetApi/BuilderPatternRestAssured.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GetApi/Storefront.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
