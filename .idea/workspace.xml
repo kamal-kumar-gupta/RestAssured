@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de44e53f-662c-4363-b8f0-6c1a10253caf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GetApi/StringComparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GetApi/StringExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GetApi/TestClass.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,15 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/JavaConcepts/BuilderPattern.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -62,11 +57,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/GetApi/TestClass.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/GetApi/StringExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+            <state relative-caret-position="240">
+              <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/GetApi/StringComparable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="66" lean-forward="true" selection-start-line="13" selection-start-column="66" selection-end-line="13" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -136,6 +140,9 @@
         <option value="$PROJECT_DIR$/src/main/java/JavaConcepts/Class01Implementation.java" />
         <option value="$PROJECT_DIR$/src/main/java/GetApi/Storefront.java" />
         <option value="$PROJECT_DIR$/src/main/java/GetApi/TestClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GetApi/StringExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GetApi/StringNextExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GetApi/StringComparable.java" />
       </list>
     </option>
   </component>
@@ -215,7 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BuilderPattern">
+  <component name="RunManager" selected="Application.StringComparable">
     <configuration name="BuilderPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaConcepts.BuilderPattern" />
       <module name="RestAssuredBasics" />
@@ -229,8 +236,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DifferentWaysOfCallingHttpMethodsOnRequestSpecifications" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GetApi.DifferentWaysOfCallingHttpMethodsOnRequestSpecifications" />
+    <configuration name="StringComparable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GetApi.StringComparable" />
+      <module name="RestAssuredBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GetApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GetApi.StringExample" />
       <module name="RestAssuredBasics" />
       <extension name="coverage">
         <pattern>
@@ -277,31 +297,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExtractingValuesFromResponse.generateToken" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="RestAssuredBasics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="GetApi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="GetApi" />
-      <option name="MAIN_CLASS_NAME" value="GetApi.ExtractingValuesFromResponse" />
-      <option name="METHOD_NAME" value="generateToken" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringComparable" />
+        <item itemvalue="Application.StringExample" />
         <item itemvalue="Application.BuilderPattern" />
         <item itemvalue="TestNG.DefaultRequestSpecificationExample.overrideDefaultSpecification" />
         <item itemvalue="TestNG.ExtractingValuesFromResponse" />
-        <item itemvalue="TestNG.ExtractingValuesFromResponse.generateToken" />
-        <item itemvalue="Application.DifferentWaysOfCallingHttpMethodsOnRequestSpecifications" />
       </list>
     </recent_temporary>
   </component>
@@ -352,9 +354,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="47" y="-4" width="1319" height="772" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992272" visible="true" weight="0.25373134" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992272" visible="true" weight="0.25373134" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -362,7 +363,7 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Learn" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.47996858" visible="true" weight="0.46199703" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.47289866" weight="0.4618834" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -371,7 +372,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32921174" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" x="497" y="55" width="419" height="647" id="Run" order="9" sideWeight="0.5200314" side_tool="true" weight="0.46199703" />
+      <window_info anchor="bottom" x="497" y="55" width="419" height="647" id="Run" order="9" sideWeight="0.52710134" side_tool="true" weight="0.4618834" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24980362" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -438,13 +439,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/GetApi/Storefront.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/GetApi/DifferentWaysOfCallingHttpMethodsOnRequestSpecifications.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -473,10 +467,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/GetApi/TestClass.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/GetApi/StringExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        <state relative-caret-position="240">
+          <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GetApi/Storefront.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GetApi/StringComparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="66" lean-forward="true" selection-start-line="13" selection-start-column="66" selection-end-line="13" selection-end-column="66" />
         </state>
       </provider>
     </entry>
