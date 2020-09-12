@@ -10,7 +10,7 @@ import java.io.File;
 
 public class ExtractingValuesFromResponse {
 
-    @Test
+//    @Test
     public void generateToken()
     {
         // Creating a File instance

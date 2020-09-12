@@ -44,13 +44,7 @@
         </dependency>
 
 
-        <!-- https://mvnrepository.com/artifact/org.testng/testng -->
-        <dependency>
-            <groupId>org.testng</groupId>
-            <artifactId>testng</artifactId>
-            <version>7.0.0</version>
-            <scope>compile</scope>
-        </dependency>
+
 
 
         <!-- https://mvnrepository.com/artifact/io.rest-assured/json-schema-validator -->
